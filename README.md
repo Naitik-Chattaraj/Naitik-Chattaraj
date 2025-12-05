@@ -73,16 +73,12 @@ Always compiling... never complete.
 ###  G I T H U B &nbsp; S T A T S
 
 <p align="center">
-<img src="https://github-readme-stats-1eq98wni6-naitik-chattarajs-projects.vercel.app/api/top-langs/?username=Naitik-Chattaraj&layout=compact&theme=radical" height="160"/>
+  <!-- Top Languages (your own Vercel deployment) -->
+  <img src="https://github-readme-stats-2pd5dcmfh-naitik-chattarajs-projects.vercel.app/api/top-langs/?username=Naitik-Chattaraj&layout=compact&theme=radical" height="160"/>
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naitik-Chattaraj&theme=radical" alt="streak" height="160"/>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naitik-Chattaraj&theme=radical" height="160"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik-Chattaraj&layout=compact&theme=radical" height="160"/>
-</p>
-
 ---
 
 ###  In Short I am...
