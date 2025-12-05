@@ -73,8 +73,8 @@ Always compiling... never complete.
 ###  G I T H U B &nbsp; S T A T S
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik-Chattaraj&layout=compact&theme=radical"
-alt="most used lang" height="160"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naitik-Chattaraj&theme=radical" alt="streak" height="160"/>
 </p>
