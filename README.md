@@ -74,7 +74,7 @@ Always compiling... never complete.
 
 <p align="center">
   <!-- Top Languages (your own Vercel deployment) -->
-<img src="github-readme-stats-2flihy1ih-naitik-chattarajs-projects.vercel.app" height="160"/>
+ <img src="https://github-readme-stats-2flihy1ih-naitik-chattarajs-projects.vercel.app/api/top-langs/?username=Naitik-Chattaraj&layout=compact&theme=radical" height="160"/>
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naitik-Chattaraj&theme=radical" height="160"/>
