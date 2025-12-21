@@ -75,7 +75,7 @@ Always compiling... never complete.
 <p align="center">
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naitik-Chattaraj&theme=radical" height="160"/>
+ [![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naitik-Chattaraj)](https://github.com/Naitik-Chattaraj/github-readme-stats)
 </p>
 ---
 
