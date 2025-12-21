@@ -69,15 +69,21 @@ Always compiling... never complete.
   </a>
 </p>
 
+---
 
 ###  G I T H U B &nbsp; S T A T S
 
 <p align="center">
 
   <!-- GitHub Streak -->
- ![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naitik-Chattaraj&show_icons=true&theme=transparent)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik-Chattaraj)](https://github.com/Naitik-Chattaraj/github-readme-statsh)
+<a href="https://github.com/Naitik-Chattaraj/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Naitik-Chattaraj&show_icons=true&theme=transparent&rank_icon=github&include_all_commits&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github.com/Naitik-Chattaraj/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naitik-Chattaraj&layout=donut&langs_count=8&card_width=320&exclude_repo=luminolens&show_icons=true&theme=transparent" />
+</a>
 </p>
+
 ---
 
 ###  In Short I am...
