@@ -75,7 +75,8 @@ Always compiling... never complete.
 <p align="center">
 
   <!-- GitHub Streak -->
- [![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naitik-Chattaraj)](https://github.com/Naitik-Chattaraj/github-readme-stats)
+ ![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naitik-Chattaraj&show_icons=true&theme=transparent)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik-Chattaraj)](https://github.com/Naitik-Chattaraj/github-readme-statsh)
 </p>
 ---
 
