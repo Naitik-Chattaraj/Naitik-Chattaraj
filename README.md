@@ -14,7 +14,7 @@
 > initiate sequence: whoami
 
 UID: TmFpdGlrIENoYXR0YXJhaw==
-Password: *********
+Password: █████████
 
 access granted...
 
@@ -82,6 +82,11 @@ Always compiling... never complete.
 <a href="https://github.com/Naitik-Chattaraj/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naitik-Chattaraj&layout=donut&langs_count=8&card_width=320&exclude_repo=luminolens&show_icons=true&theme=transparent&text_color=8708cc&title_color=ac95b9" />
 </a>
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Naitik-Chattaraj&theme=transparent&hide_border=true" />
+  </a>
 </p>
 
 ---
