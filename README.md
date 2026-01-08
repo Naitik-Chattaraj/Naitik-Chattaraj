@@ -80,7 +80,7 @@ Always compiling... never complete.
   <img height=200 align="center" src="https://github-readme-stats-nc.vercel.app/api?username=Naitik-Chattaraj&show_icons=true&theme=transparent&rank_icon=github&include_all_commits&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&text_color=8708cc&title_color=ac95b9&icon_color=ac95b9" />
 </a>
 <a href="https://github.com/Naitik-Chattaraj/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-nc.vercel.app/api/top-langs?username=Naitik-Chattaraj&layout=donut&langs_count=8&card_width=320&exclude_repo=luminolens&show_icons=true&theme=transparent&text_color=8708cc&title_color=ac95b9" />
+  <img height=200 align="center" src="https://github-readme-stats-nc.vercel.app/api/top-langs?username=Naitik-Chattaraj&layout=donut&langs_count=8&card_width=320&exclude_repo=luminolens,github-readme-stats-nc&show_icons=true&theme=transparent&text_color=8708cc&title_color=ac95b9" />
 </a>
 </p>
 <p align="center">
