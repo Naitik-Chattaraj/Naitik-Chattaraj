@@ -72,21 +72,21 @@ Always compiling... never complete.
 
 
 ###  G I T H U B &nbsp; S T A T S
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none;">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" valign="top" style="border: none;">
+    <td align="center" valign="top">
       <a href="https://github.com/Naitik-Chattaraj/github-readme-stats">
-        <img width="495" height="195" src="https://github-readme-stats-nc.vercel.app/api?username=Naitik-Chattaraj&show_icons=true&theme=transparent&rank_icon=github&include_all_commits&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&text_color=8708cc&title_color=ac95b9&icon_color=ac95b9&border_color=ac95b900&border_radius=10&bg_color=00000000&hide_border=true" />
+        <img width="495" height="195" src="https://github-readme-stats-nc.vercel.app/api?username=Naitik-Chattaraj&show_icons=true&theme=transparent&rank_icon=github&include_all_commits&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&text_color=8708cc&title_color=ac95b9&icon_color=ac95b9&border_radius=10&bg_color=00000000&hide_border=true" />
       </a>
       <br/><br/>
       <a href="https://git.io/streak-stats">
-        <img width="495" height="195" src="https://github-readme-streak-stats-nc.vercel.app?user=Naitik-Chattaraj&theme=transparent&ring=ac95b9&fire=ac95b9&currStreakLabel=ac95b9&sideLabels=8708cc&currStreakNum=8708cc&dates=8708cc&border=ac95b900&stroke=ac95b9&background=00000000&border_radius=10&hide_border=true" alt="GitHub Streak" />
+        <img width="495" height="195" src="https://github-readme-streak-stats-nc.vercel.app?user=Naitik-Chattaraj&theme=transparent&ring=ac95b9&fire=ac95b9&currStreakLabel=ac95b9&sideLabels=8708cc&currStreakNum=8708cc&dates=8708cc&background=00000000&border_radius=10&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
-    <td width="20" style="border: none;"></td>
-    <td align="center" valign="top" style="border: none;">
+    <td width="40"></td>
+    <td align="center" valign="top">
       <a href="https://github.com/Naitik-Chattaraj/convoychat">
-        <img width="350" height="420" src="https://github-readme-stats-nc.vercel.app/api/top-langs?username=Naitik-Chattaraj&layout=donut-vertical&langs_count=8&card_width=350&card_height=420&exclude_repo=luminolens,github-readme-stats-nc,github-readme-streak-stats&show_icons=true&theme=transparent&text_color=8708cc&title_color=ac95b9&border_color=ac95b900&border_radius=10&bg_color=00000000&hide_border=true" />
+        <img width="350" height="420" src="https://github-readme-stats-nc.vercel.app/api/top-langs?username=Naitik-Chattaraj&layout=donut-vertical&langs_count=8&card_width=350&card_height=420&exclude_repo=luminolens,github-readme-stats-nc,github-readme-streak-stats&show_icons=true&theme=transparent&text_color=8708cc&title_color=ac95b9&border_radius=10&bg_color=00000000&hide_border=true" />
       </a>
     </td>
   </tr>
