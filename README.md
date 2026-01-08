@@ -86,7 +86,7 @@ Always compiling... never complete.
     <td width="20" style="border: none;"></td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://github.com/Naitik-Chattaraj/convoychat">
-        <img width="350" height="420" src="https://github-readme-stats-nc.vercel.app/api/top-langs?username=Naitik-Chattaraj&layout=donut-vertical&langs_count=8&card_width=350&card_height=420&exclude_repo=luminolens,github-readme-stats-nc&show_icons=true&theme=transparent&text_color=8708cc&title_color=ac95b9&border_color=ac95b900&border_radius=10&bg_color=00000000&hide_border=true" />
+        <img width="350" height="420" src="https://github-readme-stats-nc.vercel.app/api/top-langs?username=Naitik-Chattaraj&layout=donut-vertical&langs_count=8&card_width=350&card_height=420&exclude_repo=luminolens,github-readme-stats-nc,github-readme-streak-stats&show_icons=true&theme=transparent&text_color=8708cc&title_color=ac95b9&border_color=ac95b900&border_radius=10&bg_color=00000000&hide_border=true" />
       </a>
     </td>
   </tr>
