@@ -73,21 +73,24 @@ Always compiling... never complete.
 
 ###  G I T H U B &nbsp; S T A T S
 
-<p align="center">
-
-  <!-- GitHub Streak -->
-<a href="https://github.com/Naitik-Chattaraj/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-nc.vercel.app/api?username=Naitik-Chattaraj&show_icons=true&theme=transparent&rank_icon=github&include_all_commits&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&text_color=8708cc&title_color=ac95b9&icon_color=ac95b9" />
-</a>
-<a href="https://github.com/Naitik-Chattaraj/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-nc.vercel.app/api/top-langs?username=Naitik-Chattaraj&layout=donut&langs_count=8&card_width=320&exclude_repo=luminolens,github-readme-stats-nc&show_icons=true&theme=transparent&text_color=8708cc&title_color=ac95b9" />
-</a>
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Naitik-Chattaraj&theme=transparent&hide_border=true" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Naitik-Chattaraj/github-readme-stats">
+        <img width="100%" src="https://github-readme-stats-nc.vercel.app/api?username=Naitik-Chattaraj&show_icons=true&theme=transparent&rank_icon=github&include_all_commits&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&text_color=8708cc&title_color=ac95b9&icon_color=ac95b9&border_color=ac95b9&border_radius=10&bg_color=00000000" />
+      </a>
+      <br/><br/>
+      <a href="https://git.io/streak-stats">
+        <img width="100%" src="https://github-readme-streak-stats-nc.vercel.app?user=Naitik-Chattaraj&theme=transparent&ring=ac95b9&fire=ac95b9&currStreakLabel=ac95b9&sideLabels=8708cc&currStreakNum=8708cc&dates=8708cc&border=ac95b9&stroke=ac95b9&background=00000000&border_radius=10" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td valign="middle" width="50%">
+      <a href="https://github.com/Naitik-Chattaraj/convoychat">
+        <img width="100%" src="https://github-readme-stats-nc.vercel.app/api/top-langs?username=Naitik-Chattaraj&layout=donut&langs_count=8&card_width=400&exclude_repo=luminolens,github-readme-stats-nc&show_icons=true&theme=transparent&text_color=8708cc&title_color=ac95b9&border_color=ac95b9&border_radius=10&bg_color=00000000" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
