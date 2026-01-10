@@ -76,7 +76,7 @@ Always compiling... never complete.
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/Naitik-Chattaraj/github-readme-stats">
-        <img width="495" height="195" src="https://github-readme-stats-nc.vercel.app/api?username=Naitik-Chattaraj&show_icons=true&theme=transparent&rank_icon=github&include_all_commits&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&text_color=8708cc&title_color=ac95b9&icon_color=ac95b9&border_radius=10&bg_color=00000000&hide_border=true" />
+        <img width="495" height="195" src="https://github-readme-stats-nc.vercel.app/api?username=Naitik-Chattaraj&show_icons=true&theme=transparent&rank_icon=default&include_all_commits&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&text_color=8708cc&title_color=ac95b9&icon_color=ac95b9&border_radius=10&bg_color=00000000&hide_border=true" />
       </a>
       <br/><br/>
       <a href="https://git.io/streak-stats">
