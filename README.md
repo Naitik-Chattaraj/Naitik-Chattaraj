@@ -61,7 +61,7 @@ Always compiling... never complete.
 
 
 <p align="center">
-  <a href="https://stars.medv.io/facebook/react">
+  <a href="https://stars.medv.io/faceboo/react">
     <img src="https://stars.medv.io/facebook/react.svg" width="45%" />
   </a>
   <a href="https://stars.medv.io/nodejs/node">
