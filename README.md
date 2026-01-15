@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naitik-Chattaraj&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Naitik-Cattaraj&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
