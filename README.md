@@ -18,9 +18,9 @@ Password: █████████
 
 access granted...
 
+Currently at: Development Manager of The Carcino Foundation
 Role: Tech Club Mentor @ DPSRPK (2025–26)
 Affiliation: Proud Member of Google Developer Community
-A proud designer & developer of Carcino Foundation
 System logs reveal — a curious mind who crafts pixels, logic, and caffeine into digital wonders.
 Prefers clean code, deep space, and quiet keyboards over chaos.
 Always compiling... never complete.
